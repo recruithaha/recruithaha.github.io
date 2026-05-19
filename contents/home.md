@@ -1,17 +1,22 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![recruithaha]()](https://github.com/recruithaha)
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+机械工程专业硕士，研究方向为空间连杆机构，理论基础扎实，工程实践经验丰富。熟练使用 AutoCAD、CAXA、SolidWorks、UG、ANSYS 等设计与仿真软件，具备从机构设计到仿真分析的完整能力。对工业机器人、人工智能等前沿技术兴趣浓厚，曾本地部署 AI 智能体，利用 MCP 与 Skill 辅助完成项目调研、标准件选型及辅助设计等任务，有效提升工作效率。此外，自学 Linux 与 ROS 系统，具备一定的机器人开发基础。
 
-#### Contact
+#### 联系方式
 
-Email: senli[at]fas.harvard.edu
+Phone/WeChat: 15353397753
+Email: 3091491276@qq.com
 
-#### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+#### 教育经理
+硕士, 机械, 北京印刷学院, 2023—2026.\
+本科, 机械工程, 北京印刷学院, 2019—2023.
 
-#### Research Interests
-Machine Learning for Seismology; Foundation Model; Observational Seismology; Microseismic Monitoring
-
+#### 实习项目
+裱纸机给纸机构设计（本科）:负责裱纸机给纸机构的结构设计与建模，针对给纸稳定性与适应性进行方案优化，使用 SolidWorks 完成零部件设计与装配仿真。该项目训练了面向实际生产工艺的机构设计能力。\
+空间连杆机构研究（研究生核心方向）:聚焦空间连杆机构的运动学与动力学分析，并发表期刊论文，系统研究了该类型机构的运动特性与参数优化方法，并讨论了运动副间隙对动力学特性的影响，为空间复杂运动机构的设计提供理论参考。
+点位机、充棉机、打号机设计与制造（研究生·唐山晟腾公司）：作为核心成员参与点位机、充棉机、打号机三种非标机械的设计制造全过程。负责部分机构方案设计、三维建模与工程图纸绘制，并在制造与调试阶段提供现场技术支持。该项目充分锻炼了从方案到落地交付的工程全流程能力。
+WJPS350 轮转胶印机串墨机构优化设计（研究生·万杰公司）：针对 WJPS350 轮转胶印机串墨机构进行优化设计，通过运动分析与结构改进，改善串墨均匀性与机构运行平稳性。项目成果直接应用于实际产品改进，深化了高精度印刷机构的设计经验。
+AI 本地部署与应用实践（个人技术拓展）：基于本地硬件环境部署 AI 智能体，结合 MCP 与 Skill 搭建辅助工作流，成功应用于项目调研、标准件选型及辅助设计等环节。通过人机协同的方式，显著缩短了重复性信息整理与初选方案生成的时间，提升整体研发效率。
+ Linux 与 ROS 系统自学（个人技术拓展）：利用课余时间自学 Linux 操作系统基础操作，并学习 ROS 的核心概念与基础编程，具备搭建简单机器人仿真环境和编写基础节点的能力，为后续机器人相关开发打下平台基础。
