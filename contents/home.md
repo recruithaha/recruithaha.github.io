@@ -25,5 +25,5 @@ WJPS350 轮转胶印机串墨机构优化设计（研究生·万杰公司）：�
 AI 本地部署与应用实践（个人技术拓展）：基于本地硬件环境部署 AI 智能体，结合 MCP 与 Skill 搭建辅助工作流，成功应用于项目调研、标准件选型及辅助设计等环节。通过人机协同的方式，显著缩短了重复性信息整理与初选方案生成的时间，提升整体研发效率。\
  Linux 与 ROS 系统自学（个人技术拓展）：利用课余时间自学 Linux 操作系统基础操作，并学习 ROS 的核心概念与基础编程，具备搭建简单机器人仿真环境和编写基础节点的能力，为后续机器人相关开发打下平台基础。  
 项目现场展示：  
-![实习项目图片 4](static/assets/img/internship-4.svg)  
-![实习项目图片 5](static/assets/img/internship-5.svg)
+![实习项目图片 4](static/assets/img/internship-4.png)  
+![实习项目图片 5](static/assets/img/internship-5.png)
